@@ -10,7 +10,7 @@ Requirements:
 * [socket.io] (http://socket.io/)
 * [bone.io](http://bone.io/)
 * [express.io](http://express-io.org/)
-* 
+
 Install:
 ```bash
 npm install express.io
