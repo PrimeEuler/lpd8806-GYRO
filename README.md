@@ -1,7 +1,7 @@
 lpd8806-GYRO
 ============
 
-A gyro controlled LED strip via an SPI data buss and a lpd8806 array and [gyro.js](http://tomg.co/gyrojs).
+A gyro controlled [LED strip](https://www.adafruit.com/products/306) via an SPI data buss, lpd8806 array and [gyro.js](http://tomg.co/gyrojs).
 Tested on the BeagleBone Black using [rpi-lpd8806.js](https://github.com/jaguarnac/RPi-LPD8806-node).
 
 Requirements:
