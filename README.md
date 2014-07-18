@@ -16,8 +16,6 @@ Install:
 npm install express.io
 npm install socket.io
 npm install bone.io
-npm.install express.io
-```
 Run:
 ```bash
 node GYROserver.js
