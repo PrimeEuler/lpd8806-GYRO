@@ -25,5 +25,10 @@ Connect:
 ```bash
 http://localhost:8080
 ```
+Gyro:
+```bash
+Pitch selects the address of the LED on the strip.
+Roll selects the color wheel of the pitch selected LED.
+```
 
 
